@@ -1,25 +1,22 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A speed reading application that allows you to upload files or paste text to read at a speed of your choosing.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Website Screenshot](https://github.com/iapheus/fast-reader/blob/main/image/fast-reader.png)
 
 
 ## Features
 
 - Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+- PDF File upload
 
 ## Demo
 
-Insert gif or link to demo
+https://fast-reader-eight.vercel.app/
 
 
 ## Run Locally
@@ -27,13 +24,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/fast-reader.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd fast-reader
 ```
 
 Install dependencies
@@ -45,7 +42,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
