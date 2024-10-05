@@ -1,10 +1,10 @@
 
-# Project Title
+# Fast Reader
 
 A speed reading application that allows you to upload files or paste text to read at a speed of your choosing.
 
 
-## Screenshots
+## Screenshot
 
 ![Website Screenshot](https://github.com/iapheus/fast-reader/blob/main/image/fast-reader.png)
 
